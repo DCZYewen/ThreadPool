@@ -1,0 +1,16 @@
+.vscode/
+
+*.exe
+*.out
+# elf and coff excutables
+
+*.pdb
+*.obj
+*.o
+*.a
+*.dll
+
+# libraries
+
+*.ilk
+# msvc specific ones
